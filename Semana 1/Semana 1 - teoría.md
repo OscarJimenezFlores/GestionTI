@@ -255,7 +255,7 @@ Estos niveles de decisión, representados en la figura 7,se relacionan con los n
 
 ---
 
-## 🌐 **1.4. Integración del Sistema de Información**
+## 🌐 **1.5. Integración del Sistema de Información**
 
 La estructura conceptual, representada en la figura 8, visualiza al sistema de información como una federación de subsistemas de información que proveen soporte a los requerimientos de información del nivel operativo, táctico y estratégico, para cada una de las funciones organizativas de la empresa. 
 
@@ -300,7 +300,7 @@ Para realizar esta labor el sistema de información se alimenta de inputs de dat
 
 ---
 
-## 📚 **1.5. Conclusiones**
+## 📚 **Conclusiones**
 
 1. **El SI como activo estratégico** más allá de la tecnología.
 2. **Enfoque sistémico** es necesario para un impacto transversal en la organización.
@@ -312,19 +312,19 @@ Para realizar esta labor el sistema de información se alimenta de inputs de dat
 ### Caso de Estudio. 
 ## Implementación de un Sistema de Gestión de Proyectos en una Empresa de Tecnología
 
-### Descripción del Proyecto
+#### Descripción del Proyecto
 
 La empresa **TechSolutions S.A.** ha decidido implementar un sistema de gestión de proyectos para mejorar la planificación, ejecución y monitoreo de sus proyectos tecnológicos. Este sistema se diseñará para automatizar la asignación de tareas, la comunicación interna, el seguimiento del avance y la gestión de recursos.
 
 El costo de implementación del sistema es de **$100,000** y se espera que genere ahorros en el tiempo de gestión, mejora en la asignación de recursos y una mayor eficiencia operativa, resultando en un incremento de ingresos proyectados de **$150,000** durante el primer año.
 
-### Objetivo del Caso de Estudio
+#### Objetivo del Caso de Estudio
 
 1. **Calcular el ROI** de la implementación del sistema.
 2. **Gestionar el proyecto** utilizando un sistema de tareas con tiempos estimados y recursos asignados.
 3. **Visualizar los resultados** de la duración de cada fase del proyecto y la distribución de recursos.
 
-## Detalles del Proyecto
+#### Detalles del Proyecto
 
 - **Costo de Implementación**: $100,000
 - **Ingresos Proyectados (Ahorros y Mejora en Eficiencia)**: $150,000
@@ -336,7 +336,7 @@ El costo de implementación del sistema es de **$100,000** y se espera que gener
   - Implementación (5 días)
   - Monitoreo (20 días)
 
-## Datos del Proyecto
+#### Datos del Proyecto
 
 Para este caso de estudio, se utiliza el siguiente script python en google colab (https://colab.google):
 
