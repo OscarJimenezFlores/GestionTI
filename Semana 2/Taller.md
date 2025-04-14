@@ -1,6 +1,5 @@
-# Semana 4  
-## Taller: “Proponiendo un Servicio con Valor desde la Gestión de TI”  
-**Dr. Oscar J. Jimenez Flores**
+### Taller: “Proponiendo un Servicio con Valor desde la Gestión de TI”
+#### Dr. Oscar J. Jimenez Flores**
 
 ---
 
@@ -12,7 +11,6 @@ Aplicar los conceptos fundamentales de ITIL 4 para proponer en su nivel básico 
 - **Número de integrantes por grupo:** 4 estudiantes  
 - **Producto final:** Infografía digital y presentación oral
 
----
 
 ## 📦 Producto del Taller
 
@@ -26,7 +24,7 @@ Los estudiantes deberán elaborar una infografía clara, organizada y visualment
 - Participación del usuario en la co-creación de valor  
 - Componentes del servicio (productos, recursos, actividades, herramientas)
 
----
+
 
 ### 2. Presentación Final (Pitch) – 10 minutos por grupo  
 Cada grupo presentará su servicio TI utilizando su infografía como soporte visual, explicando:
@@ -36,7 +34,7 @@ Cada grupo presentará su servicio TI utilizando su infografía como soporte vis
 - Qué conceptos de ITIL 4 se aplicaron  
 - Por qué su propuesta es útil y coherente
 
----
+
 
 ## 🛠 Instrucciones
 
@@ -54,7 +52,6 @@ Cada grupo presentará su servicio TI utilizando su infografía como soporte vis
    - Aplicación de ITIL 4  
    - Coherencia, creatividad y dominio del tema
 
----
 
 ## 📚 Casos Prácticos Sugeridos  
 Los estudiantes pueden elegir uno de los siguientes casos o sugerir uno relacionado con una empresa tecnológica real:
@@ -92,4 +89,4 @@ Los estudiantes pueden elegir uno de los siguientes casos o sugerir uno relacion
 
 > **Total: 20 puntos**
 
----
+
