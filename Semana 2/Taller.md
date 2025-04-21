@@ -1,9 +1,9 @@
-### Taller: “Proponiendo un Servicio con Valor desde la Gestión de TI”
+## Taller: “Proponiendo un Servicio con Valor desde la Gestión de TI”
 #### Dr. Oscar J. Jimenez Flores**
 
 ---
 
-### 🎯 Objetivo  
+## 🎯 Objetivo  
 Aplicar los conceptos fundamentales de ITIL 4 para proponer en su nivel básico un servicio de tecnología de la información (TI) que responda a una necesidad real, integrando el modelo de gestión de servicios y la co-creación de valor entre usuarios y proveedores. Fomentando en los estudiantes el pensamiento crítico, el trabajo colaborativo y la aplicación práctica de conocimientos previos.
 
 - **Duración:** 100 minutos  

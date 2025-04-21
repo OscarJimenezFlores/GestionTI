@@ -1,7 +1,11 @@
 # Gestion de Tecnologías de la información
-Curso Gestión de Tecnologías de la Información
 
-| Semana | Conceptuales                                                                 |
+Dr. Oscar Jimenez Flores  
+[CTI Vitae](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do%3Fid_investigador%3D33398&ved=2ahUKEwi7_KSu8s2MAxWwIbkGHfcFN3EQFnoECA0QAQ&usg=AOvVaw1VPrJTyH8Dl3P6q-qEHKEY)  
+[LinkedIn](https://www.linkedin.com/in/oscar-jimenez-flores/)
+
+
+| Semana | Temario                                                                 |
 |--------|-------------------------------------------------------------------------------|
 | 1      | Introducción de Gestión de Tecnologías de la Información. |
 | 2      | Introducción de Gestión del Servicio (ITIL), Ciclo de Vida del Servicio.     |

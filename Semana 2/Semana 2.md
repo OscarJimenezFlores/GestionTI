@@ -1,9 +1,9 @@
-# 🌟 **Semana 2: Introducción de Gestión del Servicio (ITIL)~~, Ciclo de Vida del Servicio~~ **
+# 🌟 **Semana 2: Introducción de Gestión del Servicio (ITIL)~~, Ciclo de Vida del Servicio~~**
 
 **Curso:** Gestión de Tecnologías de la Información  
 **Docente:** Dr. Oscar Jimenez Flores  
-**URL:** [CTI Vitae](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do%3Fid_investigador%3D33398&ved=2ahUKEwi7_KSu8s2MAxWwIbkGHfcFN3EQFnoECA0QAQ&usg=AOvVaw1VPrJTyH8Dl3P6q-qEHKEY)  
-**URL:** [LinkedIn](https://www.linkedin.com/in/oscar-jimenez-flores/)
+[CTI Vitae Concytec](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do%3Fid_investigador%3D33398&ved=2ahUKEwi7_KSu8s2MAxWwIbkGHfcFN3EQFnoECA0QAQ&usg=AOvVaw1VPrJTyH8Dl3P6q-qEHKEY)  
+[LinkedIn](https://www.linkedin.com/in/oscar-jimenez-flores/)
 
 ---
 
