@@ -81,6 +81,8 @@ pueden tener tres tipos de autoridad:
 
 - **Modelo de comunicación:** la comunicación es el catalizador para una comprensión clara de cualquier cosa, ya que se trata de compartir información de una persona a otra. El proceso que siguen las organizaciones para una comunicación efectiva se conoce como el modelo de comunicación. Por lo tanto, la comunicación efectiva es esencial para tener un entendimiento claro de las líneas de reporte, roles y responsabilidades, sistemas de autoridad y para otros asuntos.
 
+<br/>
+
 **EJEMPLOS**
 
 Las líneas de reporte definen relaciones jerárquicas y funcionales. A continuación, un ejemplo:
@@ -108,6 +110,8 @@ Tipos de líneas de reporte
 | Línea continua | Representa responsabilidad directa sobre tareas y disciplina.      |
 | Línea punteada | Indica responsabilidad funcional limitada o supervisión indirecta. |
 
+<br/><br/>
+
 🔹 Roles y responsabilidades
 
 ```mermaid
@@ -129,6 +133,8 @@ sequenceDiagram
 | Tester              | Pruebas funcionales, reporte de errores        |
 | Administrador TI    | Soporte, infraestructura, backup               |
 
+<br/><br/>
+
 🔹 Sistemas de Autoridad
 
 | Tipo de autoridad      | Definición                                                          |
@@ -141,9 +147,11 @@ sequenceDiagram
 graph LR
     A[Gerente de Línea] -->|Línea| B[Empleado A]
     A -->|Línea| C[Empleado B]
-    D[Especialista HR] -.->|Personal| A
+    D[Especialista RR.HH.] -.->|Personal| A
     E[Auditor Interno] -->|Funcional| B
 ```
+
+<br/><br/>
 
 🔹 Modelo de Comunicación
 
@@ -164,8 +172,7 @@ sequenceDiagram
 | Receptor | Persona que recibe e interpreta el mensaje                       |
 | Feedback | Respuesta que valida si el mensaje fue comprendido correctamente |
 
-
-
+<br/><br/>
 
 
 ### B. Cultura Organizacional Saludable
@@ -184,11 +191,24 @@ No se puede asegurar la efectividad de una organización simplemente teniendo un
 - Incluye visión, valores, normas y hábitos
 - Requiere liderazgo que eduque y apoye valores deseables
 
-
+<br/><br/>
 **EJEMPLOS**
 
+🚀 Toma de Decisiones en Startup
 
+```mermaid
+sequenceDiagram
+    participant Equipo
+    participant ProductOwner
+    participant AgileCoach
+    participant CEO
 
+    Equipo->>ProductOwner: Propone feature
+    ProductOwner->>AgileCoach: Consulta valores
+    AgileCoach->>CEO: Verifica alineación
+    CEO-->>Equipo: "¡Experimenten!"
+```
+<br/><br/>
 
 ### C. Habilidades y competencias organizacionales actualizadas
 
@@ -206,13 +226,25 @@ En la era actual, es esencial que las personas entiendan no solo su función y e
 - Transparencia y motivación
 - Comunicación y colaboración efectivas
 - Crecimiento continuo del personal
-
+<br/><br/>
 **EJEMPLOS**
 
+📚 Capacitación en Cloud
 
+```mermaid
+sequenceDiagram
+    participant Analista
+    participant Manager
+    participant Plataforma
+    participant Cliente
 
+    Analista->>Manager: Solicita curso AWS
+    Manager->>Plataforma: Asigna ruta
+    Plataforma->>Analista: Entrena
+    Analista->>Cliente: Implementa
+```
 
-
+<br/><br/>
 ### D. Objetivo organizacional común
 
 El objetivo de negocio es el resultado que una organización desea lograr. Por lo tanto, las organizaciones deben asegurarse que su personal lo entienda claramente.
@@ -225,5 +257,58 @@ Las personas son el recurso crucial de una organización, y es esencial que est�
 - Entendimiento de la contribución individual al valor
 - Alineación de todos los recursos humanos
 
-
+<br/><br/>
 **EJEMPLOS**
+
+🌍 Transformación Digital
+
+```mermaid
+sequenceDiagram
+    participant Ingeniero
+    participant CIO
+    participant Junta
+
+    Ingeniero->>CIO: Propone IoT
+    CIO->>Junta: Presenta ROI
+    Junta-->>CIO: Aprueba
+    CIO->>Ingeniero: Ejecuta piloto
+```
+
+
+## QUE SE RECOMIENDA PARA IMPLEMENTAR ESTA DIMENSIÓN
+
+Desarrollar los siguientes puntos.
+
+1. Para estructuras, usar diagramas + tablas de RACI
+2. Para cultura, mapear valores vs comportamientos observables
+3. Para competencias, vincular habilidades con planes carrera
+4. Para objetivos, implementar OKRs con cascada visual
+
+```mermaid
+pie
+    title Énfasis en TIC
+    "Estructura Clara" : 30
+    "Cultura Ágil" : 25
+    "Skills Tech" : 35
+    "Metas Alineadas" : 10
+```
+
+
+Y cual sería la integración total.
+
+```mermaid
+mindmap
+  root((Organización))
+    Estructura
+      Líneas claras
+      Autoridad definida
+    Cultura
+      Valores vividos
+      Rituales
+    Competencias
+      Hard Skills
+      Soft Skills
+    Objetivos
+      Alineación vertical
+      Contribución visible
+```
