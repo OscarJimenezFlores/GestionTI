@@ -34,7 +34,7 @@ Cada grupo elaborará un **informe académico mínimo de 4 páginas** que 1 inte
       - Habilidades y competencias organizacionales actualizadas
       - Objetivo organizacional común
   
-      1. Conclusión  
+      4. Conclusión  
       Reflexión sobre la importancia de la dimensión “Organizaciones y Personas” y sus componentes para el éxito sostenible del servicio TI
 
 ---
@@ -47,7 +47,7 @@ Cada grupo elaborará un **informe académico mínimo de 4 páginas** que 1 inte
 3. Aplicar el análisis previo en su servicio TI, completando la estructura del informe.
 
 ### 💬 Fase 2 – Compartir resultados (30 minutos)
-Cada grupo realizará un speech de 5 minutos explicando **solo 1 de los c4 componentes desarrollados**.
+Cada grupo realizará un speech de 5 minutos explicando **solo 1 de los 4 componentes desarrollados**.
 
 - Puede ser una presentación rápida en pocos slides (si hubiera proyector),
 - o expuesto de forma verbal.
