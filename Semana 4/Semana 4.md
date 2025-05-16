@@ -27,7 +27,7 @@ Para respaldar un enfoque holístico de Gestión de Servicios, ITIL define cuatr
 3. **Socios y proveedores**  
 4. **Flujos de valor y procesos**  
 
-<img src="images/2.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/2.png" alt="Las Cuatro Dimensiones" style="width:100%; height:auto;">  
 
 **Características**:
 - No tienen límites definidos y pueden superponerse
@@ -38,7 +38,7 @@ Para respaldar un enfoque holístico de Gestión de Servicios, ITIL define cuatr
 
 ## 1. Organizaciones y Personas
 
-<img src="images/3.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/3.png" alt="Organizaciones y Personas" style="width:100%; height:auto;">  
 
 
 ### Características:
@@ -55,7 +55,7 @@ Para respaldar un enfoque holístico de Gestión de Servicios, ITIL define cuatr
 - Sistemas de autoridad (línea, personal, funcional)
 - Modelo de comunicación efectivo
 
-<img src="images/4.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/4.png" alt="Estructura Organizacional" style="width:100%; height:auto;">  
 
 **Cultura Organizacional**:
 - Basada en actitudes compartidas, creencias y reglas
@@ -84,7 +84,7 @@ tiempo se convierten en la cultura organizacional.
 - Comunicación y colaboración efectivas
 - Crecimiento continuo del personal
 
-<img src="images/5.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/5.png" alt="Habilidades y Competencias" style="width:100%; height:auto;">  
 
 **Objetivo Común**:
 - Claridad en los objetivos del negocio
@@ -104,7 +104,7 @@ Las personas son el recurso crucial de una organización, y es esencial que est�
 - Intercambio de información entre servicios
 - Desafíos regulatorios y de cumplimiento
 
-<img src="images/6.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/6.png" alt="Información y Tecnología" style="width:100%; height:auto;">  
 
 **Preguntas clave sobre información**:
 1. ¿Qué información manejarán los servicios?
@@ -149,12 +149,12 @@ Una organización debería considerer muchos factores para elegír la tecnologí
 - Integrador especializado
 - Modelo de oferta/demanda
 
-<img src="images/7.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/7.png" alt="SIAM" style="width:100%; height:auto;">  
 
 
 ***proveedores e Impacto en la Estrategia Organizacional***
 
-<img src="images/8.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/8.png" alt="proveedores e Impacto en la Estrategia Organizacional" style="width:100%; height:auto;">  
 
 
 **Factores que afectan la estrategia**:
@@ -175,7 +175,7 @@ Una organización debería considerer muchos factores para elegír la tecnologí
 utiliza para crear y entregar productos y servicios a los
 consumidores. Un flujo de valor es una combinación de las
 
-<img src="images/9.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/9.png" alt="Flujos de Valor y Procesos" style="width:100%; height:auto;">  
 
 > Procesos.  
 Un proceso es un conjunto de actividades interrelacionadas o
@@ -205,7 +205,7 @@ que explican cómo se llevan a cabo.
 
 ## Factores Externos y Modelo PESTLE
 
-<img src="images/10.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/10.png" alt="Factores Externos y Modelo PESTLE" style="width:100%; height:auto;">  
 
 
 **Dimensiones PESTLE**:
@@ -218,4 +218,4 @@ que explican cómo se llevan a cabo.
 
 
 
-<img src="images/11.png" alt="Progresar Iterativamente con Retroalimentación" style="width:100%; height:auto;">  
+<img src="images/11.png" alt="Dimensiones PESTLE" style="width:100%; height:auto;">  
