@@ -39,19 +39,12 @@ Si se omite este paso, las mejoras pueden optimizarse solo para equipos individu
 
 
 
-### Ejemplo
-```mermaid
-flowchart TD
-    A[Visión Organizacional: Excelencia en Soporte TI] --> B[Objetivo del Servicio]
-    B --> C["Reducir MTTR (Tiempo Medio de Reparación)* en 40% (de 2h a 1.2h) para 2025"]
-    C --> D[Partes Interesadas]
-    D --> E[Equipo de Soporte]
-    D --> F[Usuarios Internos]
-    D --> G[Gerencia TI]
-    style A fill:#f9f,stroke:#333
-    style C fill:#bbf,stroke:#f66
-    legend[*MTTR: Mean Time To Resolution]
-```
+**Ejemplo**
+
+<br/>
+<img src="images/9.png" alt="9" style="width:100%; height:auto;">  
+<br/>
+
 
 ---
 ### 2. ¿Dónde estamos ahora?
@@ -94,16 +87,10 @@ Sin una línea base clara, será imposible medir la efectividad de las mejoras.
 
 **Ejemplo**
 
-journey
-    title Estado Actual del Servicio (Punto A)
-    section Métricas Clave
-      MTTR_actual: 5: 2.0 horas
-      SLA_cumplido: 3: 78%
-      Satisfacción: 2: 65%
-    section Problemas Identificados
-      Clasificación_manual: 8
-      Comunicación_pobre: 7
-      Herramientas_obsoletas: 9
+<br/>
+<img src="images/10.png" alt="10" style="width:100%; height:auto;">  
+<br/>
+
 
 ---
 
@@ -159,14 +146,10 @@ Un estado destino poco claro dificultará la obtención de apoyo de las partes i
 
 **Ejemplo**
 
-gantt
-    title Análisis de Brechas (Punto B)
-    dateFormat  YYYY-MM-DD
-    axisFormat %b'%y
-    section Actual (A)
-    MTTR 2.0h :a1, 2025-01-01, 2025-12-31
-    section Objetivo (B)
-    MTTR 1.2h :a2, after a1, 2025-12-31
+<br/>
+<img src="images/11.png" alt="11" style="width:100%; height:auto;">  
+<br/>
+
 
 ---
 
@@ -211,13 +194,12 @@ Sin un plan claro, la ejecución de la mejora probablemente fracasará.
 
 **Ejemplo**
 
-flowchart LR
-    A[Implementar IA para clasificación] --> B[Automatizar 50% de respuestas]
-    B --> C[Integrar chatbot con base de conocimiento]
-    C --> D[Capacitar equipo en nuevas herramientas]
-    D --> E[Establecer KPI en tiempo real]
-    style A stroke:#0f0,stroke-width:4px
-    style E stroke:#f00,stroke-width:2px
+
+<br/>
+<img src="images/12.png" alt="12" style="width:100%; height:auto;">  
+<br/>
+
+
 
 ---
 
@@ -264,17 +246,12 @@ Un nuevo estado actual (Punto A actualizado)
 
 **Ejemplo**
 
-gantt
-    title Cronograma de Implementación
-    dateFormat  YYYY-MM-DD
-    section Fase 1
-    Adquisición Herramientas :done, 2025-01-01, 30d
-    section Fase 2
-    Desarrollo Chatbot :active, 2025-01-31, 45d
-    section Fase 3
-    Migración Datos :2025-03-15, 30d
-    section Fase 4
-    Entrenamiento :2025-04-15, 14d
+
+<br/>
+<img src="images/13.png" alt="13" style="width:100%; height:auto;">  
+<br/>
+
+
 
 ---
 
@@ -321,11 +298,13 @@ Sin validación, no se puede asegurar el logro de los resultados prometidos.
 
 **Ejemplo**
 
-pie
-    title Resultados a 6 meses
-    "MTTR reducido a 1.5h" : 65
-    "SLA cumplido 85%" : 25
-    "Satisfacción 80%" : 10
+
+<br/>
+<img src="images/14.png" alt="14" style="width:80%; height:auto;">  
+<br/>
+
+
+
 
 ---
 
@@ -377,13 +356,12 @@ Las mejoras pueden revertirse sin una estrategia de sostenimiento.
 
 **Ejemplo**
 
-flowchart TB
-    A[Revisión Mensual KPIs] --> B[Retroalimentación Usuarios]
-    B --> C[Mejoras Continuas]
-    C --> D[Actualización Base Conocimiento]
-    D --> A
-    style A fill:#0f0
-    style D fill:#0f0
+
+<br/>
+<img src="images/15.png" alt="15" style="width:100%; height:auto;">  
+<br/>
+
+
 
 ---
 
